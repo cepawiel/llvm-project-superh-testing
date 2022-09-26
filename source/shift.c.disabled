@@ -1,0 +1,76 @@
+// //
+// int shl(int a) {
+// 	return a << 1;
+// }
+
+// int shl2(int a) {
+// 	return a << 2;
+// }
+
+// int shl4(int a) {
+// 	return a << 4;
+// }
+
+// int shl8(int a) {
+// 	return a << 8;
+// }
+
+// int shl15(int a) {
+// 	return a << 15;
+// }
+
+// int shl16(int a) {
+// 	return a << 16;
+// }
+
+// //
+// int shr(int a) {
+// 	return a >> 1;
+// }
+
+// int shr2(int a) {
+// 	return a >> 2;
+// }
+
+// int shr4(int a) {
+// 	return a >> 4;
+// }
+
+// int shr8(int a) {
+// 	return a >> 8;
+// }
+
+// int shr15(int a) {
+// 	return a >> 15;
+// }
+
+// int shr16(int a) {
+// 	return a >> 16;
+// }
+
+// //
+// unsigned int shr_unsigned(unsigned int a) {
+// 	return a >> 1;
+// }
+
+// unsigned int shr2_unsigned(unsigned int a) {
+// 	return a >> 2;
+// }
+
+// unsigned int shr4_unsigned(unsigned int a) {
+// 	return a >> 4;
+// }
+
+// unsigned int shr8_unsigned(unsigned int a) {
+// 	return a >> 8;
+// }
+
+// unsigned int shr15_unsigned(unsigned int a) {
+// 	return a >> 15;
+// }
+
+// unsigned int shr16_unsigned(unsigned int a) {
+// 	return a >> 16;
+// }
+
+
